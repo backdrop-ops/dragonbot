@@ -12,5 +12,5 @@ export HUBOT_GITTER2_TOKEN=a37136d5e5a07de29598c34e724bdfc30b42e060;
 #export HUBOT_LOG_LEVEL=debug
 
 cd /Users/davidradcliffe/dragonbot;
-# ./bin/hubot -a gitter2 --name dragonbot2 > dragonbot2.log 2>&1 &
-./bin/hubot -a gitter2 --name dragonbot2;
+./bin/hubot -a gitter2 --name dragonbot > dragonbot.log 2>&1 &
+# ./bin/hubot -a gitter2 --name dragonbot;
