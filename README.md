@@ -172,6 +172,8 @@ You'll need to edit the `Procfile` to set the name of your hubot.
 More detailed documentation can be found on the [deploying hubot onto
 Heroku][deploy-heroku] wiki page.
 
+NOTE: This bot is currently deployed to Heroku. The app name is `backdropbot`.
+
 ### Deploying to UNIX or Windows
 
 If you would like to deploy to either a UNIX operating system or Windows.
