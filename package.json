@@ -1,9 +1,9 @@
 {
-  "name": "Dragonbot",
+  "name": "dragonbot",
   "version": "0.0.0",
   "private": true,
-  "author": "David Radcliffe <dradcliffe@gmail.com>",
-  "description": "A friendly helpful robot for Backdrop CMS",
+  "author": "Backdrop CMS <info@backdropcms.org>",
+  "description": "Backdrop CMS bot.",
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
